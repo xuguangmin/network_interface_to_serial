@@ -1,0 +1,80 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+	<title>网络配置</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<link href="style.css" rel="stylesheet" type="text/css">
+	<script type="text/javascript" src="./jquery.js"></script>
+	<script type="text/javascript" src="./jquery.form.js"></script>
+
+<script type="text/javascript">
+	function modifyHtml(dataObj)
+	{
+		$("#deviceName").val(dataObj.hostname);
+		$("#deviceId").val(dataObj.deviceid);
+		$("#version").val(dataObj.version);
+	}
+
+	$(document).ready(function(){
+		$.get(
+			'./cgi-bin/sysinfo.cgi',//CGI����·��
+			function(data){
+				//alert(data);
+				var dataObj = eval("("+data+")");
+				$("#deviceName").html(dataObj.hostname);
+				$("#deviceId").html(dataObj.deviceid);
+				$("#version").html(dataObj.version);
+				modifyHtml(dataObj);
+			} //�ڶ�������ص���������������ص����
+		);
+	
+		var options = {
+			url: './cgi-bin/sysinfo.cgi',//CGI����·��
+			type: 'post',
+			success: function(data) {
+				var types = eval("("+data+")");
+				if(types.result != "SUCCESS") {
+					
+				} else {
+					
+				}
+		}};
+	
+		$("#form1").ajaxForm(options);
+});
+</script>
+</head>
+<body class="netpage">
+
+	<form id="form1" name="form1" method="post" action="">
+
+	<table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<tbody>
+	<tr>
+		<th class="thid" >设备信息</th>
+		<td class="thid"> </td>
+	</tr>
+	
+	<tr><th>设备名称：</th>
+	<td id="deviceName"> </td>
+	</tr>
+	
+	<tr><th>设备ID：</th>
+	<td id="deviceId"> </td>
+	</tr>
+	
+	<tr>
+		<th>软件版本：</th>
+    	<td id="version"> </td>
+	</tr>
+	
+
+	<tr><th class="thlast"> </th> <td class="thlast">
+		<input name="savesetup" id="save" value="" type="submit">
+		<input name="resetup"   id="reset" value="" type="reset">
+	</td></tr>
+	</tbody></table>
+
+	</form>
+</body>
+</html>
