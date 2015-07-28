@@ -1,0 +1,269 @@
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/mkfs.jffs2.arm-linux-gcc.4.3.2
+END
+nandtest
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/mkfs.jffs2.arm-linux-gcc.4.3.2/nandtest
+END
+doc_loadbios
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/mkfs.jffs2.arm-linux-gcc.4.3.2/doc_loadbios
+END
+ubinfo
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/mkfs.jffs2.arm-linux-gcc.4.3.2/ubinfo
+END
+serve_image
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/mkfs.jffs2.arm-linux-gcc.4.3.2/serve_image
+END
+docfdisk
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/mkfs.jffs2.arm-linux-gcc.4.3.2/docfdisk
+END
+ubidetach
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/mkfs.jffs2.arm-linux-gcc.4.3.2/ubidetach
+END
+pfi2bin
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/mkfs.jffs2.arm-linux-gcc.4.3.2/pfi2bin
+END
+nftldump
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/mkfs.jffs2.arm-linux-gcc.4.3.2/nftldump
+END
+mtd_debug
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/mkfs.jffs2.arm-linux-gcc.4.3.2/mtd_debug
+END
+bin2nand
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/mkfs.jffs2.arm-linux-gcc.4.3.2/bin2nand
+END
+pfiflash
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/mkfs.jffs2.arm-linux-gcc.4.3.2/pfiflash
+END
+ftl_format
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/mkfs.jffs2.arm-linux-gcc.4.3.2/ftl_format
+END
+jffs2dump
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/mkfs.jffs2.arm-linux-gcc.4.3.2/jffs2dump
+END
+rfddump
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/mkfs.jffs2.arm-linux-gcc.4.3.2/rfddump
+END
+recv_image
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/mkfs.jffs2.arm-linux-gcc.4.3.2/recv_image
+END
+sumtool
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/mkfs.jffs2.arm-linux-gcc.4.3.2/sumtool
+END
+mkbootenv
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/mkfs.jffs2.arm-linux-gcc.4.3.2/mkbootenv
+END
+flash_lock
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/mkfs.jffs2.arm-linux-gcc.4.3.2/flash_lock
+END
+flash_info
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/mkfs.jffs2.arm-linux-gcc.4.3.2/flash_info
+END
+flash_unlock
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/mkfs.jffs2.arm-linux-gcc.4.3.2/flash_unlock
+END
+ubigen
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/mkfs.jffs2.arm-linux-gcc.4.3.2/ubigen
+END
+pddcustomize
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/mkfs.jffs2.arm-linux-gcc.4.3.2/pddcustomize
+END
+ubimirror
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/mkfs.jffs2.arm-linux-gcc.4.3.2/ubimirror
+END
+flash_erase
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/mkfs.jffs2.arm-linux-gcc.4.3.2/flash_erase
+END
+flashcp
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/mkfs.jffs2.arm-linux-gcc.4.3.2/flashcp
+END
+ftl_check
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/mkfs.jffs2.arm-linux-gcc.4.3.2/ftl_check
+END
+unubi
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/mkfs.jffs2.arm-linux-gcc.4.3.2/unubi
+END
+rfdformat
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/mkfs.jffs2.arm-linux-gcc.4.3.2/rfdformat
+END
+ubicrc32.pl
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/mkfs.jffs2.arm-linux-gcc.4.3.2/ubicrc32.pl
+END
+ubimkvol
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/mkfs.jffs2.arm-linux-gcc.4.3.2/ubimkvol
+END
+flash_otp_info
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/mkfs.jffs2.arm-linux-gcc.4.3.2/flash_otp_info
+END
+nandwrite
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/mkfs.jffs2.arm-linux-gcc.4.3.2/nandwrite
+END
+nand2bin
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/mkfs.jffs2.arm-linux-gcc.4.3.2/nand2bin
+END
+ubirmvol
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/mkfs.jffs2.arm-linux-gcc.4.3.2/ubirmvol
+END
+ubiupdatevol
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/mkfs.jffs2.arm-linux-gcc.4.3.2/ubiupdatevol
+END
+flash_otp_dump
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/mkfs.jffs2.arm-linux-gcc.4.3.2/flash_otp_dump
+END
+ubiattach
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/mkfs.jffs2.arm-linux-gcc.4.3.2/ubiattach
+END
+flash_eraseall
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/mkfs.jffs2.arm-linux-gcc.4.3.2/flash_eraseall
+END
+ubinize
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/mkfs.jffs2.arm-linux-gcc.4.3.2/ubinize
+END
+nanddump
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/mkfs.jffs2.arm-linux-gcc.4.3.2/nanddump
+END
+mkpfi
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/mkfs.jffs2.arm-linux-gcc.4.3.2/mkpfi
+END
+mkfs.jffs2
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/mkfs.jffs2.arm-linux-gcc.4.3.2/mkfs.jffs2
+END
+nftl_format
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/mkfs.jffs2.arm-linux-gcc.4.3.2/nftl_format
+END
+ubicrc32
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/mkfs.jffs2.arm-linux-gcc.4.3.2/ubicrc32
+END

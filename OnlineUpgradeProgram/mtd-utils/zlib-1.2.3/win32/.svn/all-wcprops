@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/zlib-1.2.3/win32
+END
+DLL_FAQ.txt
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/zlib-1.2.3/win32/DLL_FAQ.txt
+END
+VisualC.txt
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/zlib-1.2.3/win32/VisualC.txt
+END
+zlib1.rc
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/zlib-1.2.3/win32/zlib1.rc
+END
+Makefile.emx
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/zlib-1.2.3/win32/Makefile.emx
+END
+Makefile.gcc
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/zlib-1.2.3/win32/Makefile.gcc
+END
+zlib.def
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/zlib-1.2.3/win32/zlib.def
+END
+Makefile.bor
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/zlib-1.2.3/win32/Makefile.bor
+END
+Makefile.msc
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/zlib-1.2.3/win32/Makefile.msc
+END

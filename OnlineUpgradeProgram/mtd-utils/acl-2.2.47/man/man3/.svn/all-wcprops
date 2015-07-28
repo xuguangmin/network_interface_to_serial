@@ -1,0 +1,239 @@
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/acl-2.2.47/man/man3
+END
+acl_valid.3
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/acl-2.2.47/man/man3/acl_valid.3
+END
+acl_get_entry.3
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/acl-2.2.47/man/man3/acl_get_entry.3
+END
+acl_get_perm.3
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/acl-2.2.47/man/man3/acl_get_perm.3
+END
+acl_init.3
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/acl-2.2.47/man/man3/acl_init.3
+END
+acl_extended_fd.3
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/acl-2.2.47/man/man3/acl_extended_fd.3
+END
+acl_entries.3
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/acl-2.2.47/man/man3/acl_entries.3
+END
+acl_get_tag_type.3
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/acl-2.2.47/man/man3/acl_get_tag_type.3
+END
+acl_calc_mask.3
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/acl-2.2.47/man/man3/acl_calc_mask.3
+END
+acl_check.3
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/acl-2.2.47/man/man3/acl_check.3
+END
+acl_cmp.3
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/acl-2.2.47/man/man3/acl_cmp.3
+END
+acl_delete_def_file.3
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/acl-2.2.47/man/man3/acl_delete_def_file.3
+END
+acl_get_qualifier.3
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/acl-2.2.47/man/man3/acl_get_qualifier.3
+END
+acl_free.3
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/acl-2.2.47/man/man3/acl_free.3
+END
+acl_delete_perm.3
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/acl-2.2.47/man/man3/acl_delete_perm.3
+END
+acl_to_text.3
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/acl-2.2.47/man/man3/acl_to_text.3
+END
+acl_set_tag_type.3
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/acl-2.2.47/man/man3/acl_set_tag_type.3
+END
+acl_get_fd.3
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/acl-2.2.47/man/man3/acl_get_fd.3
+END
+acl_dup.3
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/acl-2.2.47/man/man3/acl_dup.3
+END
+acl_copy_entry.3
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/acl-2.2.47/man/man3/acl_copy_entry.3
+END
+acl_set_qualifier.3
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/acl-2.2.47/man/man3/acl_set_qualifier.3
+END
+acl_equiv_mode.3
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/acl-2.2.47/man/man3/acl_equiv_mode.3
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/acl-2.2.47/man/man3/Makefile
+END
+acl_extended_file.3
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/acl-2.2.47/man/man3/acl_extended_file.3
+END
+acl_set_fd.3
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/acl-2.2.47/man/man3/acl_set_fd.3
+END
+acl_from_text.3
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/acl-2.2.47/man/man3/acl_from_text.3
+END
+acl_from_mode.3
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/acl-2.2.47/man/man3/acl_from_mode.3
+END
+acl_size.3
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/acl-2.2.47/man/man3/acl_size.3
+END
+acl_add_perm.3
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/acl-2.2.47/man/man3/acl_add_perm.3
+END
+acl_get_permset.3
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/acl-2.2.47/man/man3/acl_get_permset.3
+END
+acl_get_file.3
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/acl-2.2.47/man/man3/acl_get_file.3
+END
+acl_delete_entry.3
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/acl-2.2.47/man/man3/acl_delete_entry.3
+END
+acl_copy_int.3
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/acl-2.2.47/man/man3/acl_copy_int.3
+END
+acl_create_entry.3
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/acl-2.2.47/man/man3/acl_create_entry.3
+END
+acl_error.3
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/acl-2.2.47/man/man3/acl_error.3
+END
+acl_copy_ext.3
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/acl-2.2.47/man/man3/acl_copy_ext.3
+END
+acl_set_file.3
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/acl-2.2.47/man/man3/acl_set_file.3
+END
+acl_set_permset.3
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/acl-2.2.47/man/man3/acl_set_permset.3
+END
+acl_clear_perms.3
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/acl-2.2.47/man/man3/acl_clear_perms.3
+END
+acl_to_any_text.3
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/acl-2.2.47/man/man3/acl_to_any_text.3
+END

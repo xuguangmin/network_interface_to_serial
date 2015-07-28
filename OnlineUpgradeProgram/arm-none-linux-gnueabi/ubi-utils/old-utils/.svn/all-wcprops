@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/arm-none-linux-gnueabi/ubi-utils/old-utils
+END
+.crc32.c.dep
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/arm-none-linux-gnueabi/ubi-utils/old-utils/.crc32.c.dep
+END
+.pfi.c.dep
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/arm-none-linux-gnueabi/ubi-utils/old-utils/.pfi.c.dep
+END
+pfi2bin
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/arm-none-linux-gnueabi/ubi-utils/old-utils/pfi2bin
+END
+bin2nand
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/arm-none-linux-gnueabi/ubi-utils/old-utils/bin2nand
+END
+pfiflash
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/arm-none-linux-gnueabi/ubi-utils/old-utils/pfiflash
+END
+.eb_chain.c.dep
+K 25
+svn:wc:ra_dav:version-url
+V 197
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/arm-none-linux-gnueabi/ubi-utils/old-utils/.eb_chain.c.dep
+END
+.pfi2bin.c.dep
+K 25
+svn:wc:ra_dav:version-url
+V 196
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/arm-none-linux-gnueabi/ubi-utils/old-utils/.pfi2bin.c.dep
+END
+.error.c.dep
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/arm-none-linux-gnueabi/ubi-utils/old-utils/.error.c.dep
+END
+.bin2nand.c.dep
+K 25
+svn:wc:ra_dav:version-url
+V 197
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/arm-none-linux-gnueabi/ubi-utils/old-utils/.bin2nand.c.dep
+END
+.nandecc.c.dep
+K 25
+svn:wc:ra_dav:version-url
+V 196
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/arm-none-linux-gnueabi/ubi-utils/old-utils/.nandecc.c.dep
+END
+.pfiflash.c.dep
+K 25
+svn:wc:ra_dav:version-url
+V 197
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/arm-none-linux-gnueabi/ubi-utils/old-utils/.pfiflash.c.dep
+END
+mkbootenv
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/arm-none-linux-gnueabi/ubi-utils/old-utils/mkbootenv
+END
+.libubimirror.c.dep
+K 25
+svn:wc:ra_dav:version-url
+V 201
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/arm-none-linux-gnueabi/ubi-utils/old-utils/.libubimirror.c.dep
+END
+ubigen
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/arm-none-linux-gnueabi/ubi-utils/old-utils/ubigen
+END
+pddcustomize
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/arm-none-linux-gnueabi/ubi-utils/old-utils/pddcustomize
+END
+.mkbootenv.c.dep
+K 25
+svn:wc:ra_dav:version-url
+V 198
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/arm-none-linux-gnueabi/ubi-utils/old-utils/.mkbootenv.c.dep
+END
+ubimirror
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/arm-none-linux-gnueabi/ubi-utils/old-utils/ubimirror
+END
+.unubi_analyze.c.dep
+K 25
+svn:wc:ra_dav:version-url
+V 202
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/arm-none-linux-gnueabi/ubi-utils/old-utils/.unubi_analyze.c.dep
+END
+.peb.c.dep
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/arm-none-linux-gnueabi/ubi-utils/old-utils/.peb.c.dep
+END
+.ubigen.c.dep
+K 25
+svn:wc:ra_dav:version-url
+V 195
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/arm-none-linux-gnueabi/ubi-utils/old-utils/.ubigen.c.dep
+END
+.ubimirror.c.dep
+K 25
+svn:wc:ra_dav:version-url
+V 198
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/arm-none-linux-gnueabi/ubi-utils/old-utils/.ubimirror.c.dep
+END
+.pddcustomize.c.dep
+K 25
+svn:wc:ra_dav:version-url
+V 201
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/arm-none-linux-gnueabi/ubi-utils/old-utils/.pddcustomize.c.dep
+END
+.list.c.dep
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/arm-none-linux-gnueabi/ubi-utils/old-utils/.list.c.dep
+END
+.bootenv.c.dep
+K 25
+svn:wc:ra_dav:version-url
+V 196
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/arm-none-linux-gnueabi/ubi-utils/old-utils/.bootenv.c.dep
+END
+unubi
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/arm-none-linux-gnueabi/ubi-utils/old-utils/unubi
+END
+.hashmap.c.dep
+K 25
+svn:wc:ra_dav:version-url
+V 196
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/arm-none-linux-gnueabi/ubi-utils/old-utils/.hashmap.c.dep
+END
+.unubi.c.dep
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/arm-none-linux-gnueabi/ubi-utils/old-utils/.unubi.c.dep
+END
+.libpfiflash.c.dep
+K 25
+svn:wc:ra_dav:version-url
+V 200
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/arm-none-linux-gnueabi/ubi-utils/old-utils/.libpfiflash.c.dep
+END
+nand2bin
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/arm-none-linux-gnueabi/ubi-utils/old-utils/nand2bin
+END
+.nand2bin.c.dep
+K 25
+svn:wc:ra_dav:version-url
+V 197
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/arm-none-linux-gnueabi/ubi-utils/old-utils/.nand2bin.c.dep
+END
+.libubigen.c.dep
+K 25
+svn:wc:ra_dav:version-url
+V 198
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/arm-none-linux-gnueabi/ubi-utils/old-utils/.libubigen.c.dep
+END
+.reader.c.dep
+K 25
+svn:wc:ra_dav:version-url
+V 195
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/arm-none-linux-gnueabi/ubi-utils/old-utils/.reader.c.dep
+END
+.libubi.c.dep
+K 25
+svn:wc:ra_dav:version-url
+V 195
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/arm-none-linux-gnueabi/ubi-utils/old-utils/.libubi.c.dep
+END
+.nandcorr.c.dep
+K 25
+svn:wc:ra_dav:version-url
+V 197
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/arm-none-linux-gnueabi/ubi-utils/old-utils/.nandcorr.c.dep
+END

@@ -1,0 +1,227 @@
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/zlib-1.2.3
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/zlib-1.2.3/configure
+END
+inffixed.h
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/zlib-1.2.3/inffixed.h
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/zlib-1.2.3/Makefile.in
+END
+deflate.c
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/zlib-1.2.3/deflate.c
+END
+minigzip
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/zlib-1.2.3/minigzip
+END
+zutil.c
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/zlib-1.2.3/zutil.c
+END
+gzio.c
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/zlib-1.2.3/gzio.c
+END
+deflate.h
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/zlib-1.2.3/deflate.h
+END
+example
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/zlib-1.2.3/example
+END
+crc32.c
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/zlib-1.2.3/crc32.c
+END
+zutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/zlib-1.2.3/zutil.h
+END
+crc32.h
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/zlib-1.2.3/crc32.h
+END
+trees.c
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/zlib-1.2.3/trees.c
+END
+algorithm.txt
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/zlib-1.2.3/algorithm.txt
+END
+zconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/zlib-1.2.3/zconf.h
+END
+minigzip.c
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/zlib-1.2.3/minigzip.c
+END
+INDEX
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/zlib-1.2.3/INDEX
+END
+trees.h
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/zlib-1.2.3/trees.h
+END
+inffast.c
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/zlib-1.2.3/inffast.c
+END
+example.c
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/zlib-1.2.3/example.c
+END
+compress.c
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/zlib-1.2.3/compress.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/zlib-1.2.3/Makefile
+END
+make_vms.com
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/zlib-1.2.3/make_vms.com
+END
+inffast.h
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/zlib-1.2.3/inffast.h
+END
+zlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/zlib-1.2.3/zlib.h
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/zlib-1.2.3/ChangeLog
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/zlib-1.2.3/README
+END
+inftrees.c
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/zlib-1.2.3/inftrees.c
+END
+zlib.3
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/zlib-1.2.3/zlib.3
+END
+inflate.c
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/zlib-1.2.3/inflate.c
+END
+uncompr.c
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/zlib-1.2.3/uncompr.c
+END
+inftrees.h
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/zlib-1.2.3/inftrees.h
+END
+FAQ
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/zlib-1.2.3/FAQ
+END
+inflate.h
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/zlib-1.2.3/inflate.h
+END
+zconf.in.h
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/zlib-1.2.3/zconf.in.h
+END
+adler32.c
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/zlib-1.2.3/adler32.c
+END
+infback.c
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/zlib-1.2.3/infback.c
+END

@@ -1,0 +1,269 @@
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/mkfs.jffs2.for.pc%E9%AA%9E%E5%86%B2%E5%BD%B4
+END
+nandtest
+K 25
+svn:wc:ra_dav:version-url
+V 202
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/mkfs.jffs2.for.pc%E9%AA%9E%E5%86%B2%E5%BD%B4/nandtest
+END
+doc_loadbios
+K 25
+svn:wc:ra_dav:version-url
+V 206
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/mkfs.jffs2.for.pc%E9%AA%9E%E5%86%B2%E5%BD%B4/doc_loadbios
+END
+ubinfo
+K 25
+svn:wc:ra_dav:version-url
+V 200
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/mkfs.jffs2.for.pc%E9%AA%9E%E5%86%B2%E5%BD%B4/ubinfo
+END
+serve_image
+K 25
+svn:wc:ra_dav:version-url
+V 205
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/mkfs.jffs2.for.pc%E9%AA%9E%E5%86%B2%E5%BD%B4/serve_image
+END
+docfdisk
+K 25
+svn:wc:ra_dav:version-url
+V 202
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/mkfs.jffs2.for.pc%E9%AA%9E%E5%86%B2%E5%BD%B4/docfdisk
+END
+ubidetach
+K 25
+svn:wc:ra_dav:version-url
+V 203
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/mkfs.jffs2.for.pc%E9%AA%9E%E5%86%B2%E5%BD%B4/ubidetach
+END
+pfi2bin
+K 25
+svn:wc:ra_dav:version-url
+V 201
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/mkfs.jffs2.for.pc%E9%AA%9E%E5%86%B2%E5%BD%B4/pfi2bin
+END
+nftldump
+K 25
+svn:wc:ra_dav:version-url
+V 202
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/mkfs.jffs2.for.pc%E9%AA%9E%E5%86%B2%E5%BD%B4/nftldump
+END
+mtd_debug
+K 25
+svn:wc:ra_dav:version-url
+V 203
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/mkfs.jffs2.for.pc%E9%AA%9E%E5%86%B2%E5%BD%B4/mtd_debug
+END
+bin2nand
+K 25
+svn:wc:ra_dav:version-url
+V 202
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/mkfs.jffs2.for.pc%E9%AA%9E%E5%86%B2%E5%BD%B4/bin2nand
+END
+pfiflash
+K 25
+svn:wc:ra_dav:version-url
+V 202
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/mkfs.jffs2.for.pc%E9%AA%9E%E5%86%B2%E5%BD%B4/pfiflash
+END
+ftl_format
+K 25
+svn:wc:ra_dav:version-url
+V 204
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/mkfs.jffs2.for.pc%E9%AA%9E%E5%86%B2%E5%BD%B4/ftl_format
+END
+jffs2dump
+K 25
+svn:wc:ra_dav:version-url
+V 203
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/mkfs.jffs2.for.pc%E9%AA%9E%E5%86%B2%E5%BD%B4/jffs2dump
+END
+rfddump
+K 25
+svn:wc:ra_dav:version-url
+V 201
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/mkfs.jffs2.for.pc%E9%AA%9E%E5%86%B2%E5%BD%B4/rfddump
+END
+recv_image
+K 25
+svn:wc:ra_dav:version-url
+V 204
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/mkfs.jffs2.for.pc%E9%AA%9E%E5%86%B2%E5%BD%B4/recv_image
+END
+sumtool
+K 25
+svn:wc:ra_dav:version-url
+V 201
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/mkfs.jffs2.for.pc%E9%AA%9E%E5%86%B2%E5%BD%B4/sumtool
+END
+mkbootenv
+K 25
+svn:wc:ra_dav:version-url
+V 203
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/mkfs.jffs2.for.pc%E9%AA%9E%E5%86%B2%E5%BD%B4/mkbootenv
+END
+flash_lock
+K 25
+svn:wc:ra_dav:version-url
+V 204
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/mkfs.jffs2.for.pc%E9%AA%9E%E5%86%B2%E5%BD%B4/flash_lock
+END
+flash_info
+K 25
+svn:wc:ra_dav:version-url
+V 204
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/mkfs.jffs2.for.pc%E9%AA%9E%E5%86%B2%E5%BD%B4/flash_info
+END
+flash_unlock
+K 25
+svn:wc:ra_dav:version-url
+V 206
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/mkfs.jffs2.for.pc%E9%AA%9E%E5%86%B2%E5%BD%B4/flash_unlock
+END
+ubigen
+K 25
+svn:wc:ra_dav:version-url
+V 200
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/mkfs.jffs2.for.pc%E9%AA%9E%E5%86%B2%E5%BD%B4/ubigen
+END
+pddcustomize
+K 25
+svn:wc:ra_dav:version-url
+V 206
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/mkfs.jffs2.for.pc%E9%AA%9E%E5%86%B2%E5%BD%B4/pddcustomize
+END
+ubimirror
+K 25
+svn:wc:ra_dav:version-url
+V 203
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/mkfs.jffs2.for.pc%E9%AA%9E%E5%86%B2%E5%BD%B4/ubimirror
+END
+flash_erase
+K 25
+svn:wc:ra_dav:version-url
+V 205
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/mkfs.jffs2.for.pc%E9%AA%9E%E5%86%B2%E5%BD%B4/flash_erase
+END
+flashcp
+K 25
+svn:wc:ra_dav:version-url
+V 201
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/mkfs.jffs2.for.pc%E9%AA%9E%E5%86%B2%E5%BD%B4/flashcp
+END
+ftl_check
+K 25
+svn:wc:ra_dav:version-url
+V 203
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/mkfs.jffs2.for.pc%E9%AA%9E%E5%86%B2%E5%BD%B4/ftl_check
+END
+unubi
+K 25
+svn:wc:ra_dav:version-url
+V 199
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/mkfs.jffs2.for.pc%E9%AA%9E%E5%86%B2%E5%BD%B4/unubi
+END
+rfdformat
+K 25
+svn:wc:ra_dav:version-url
+V 203
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/mkfs.jffs2.for.pc%E9%AA%9E%E5%86%B2%E5%BD%B4/rfdformat
+END
+ubicrc32.pl
+K 25
+svn:wc:ra_dav:version-url
+V 205
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/mkfs.jffs2.for.pc%E9%AA%9E%E5%86%B2%E5%BD%B4/ubicrc32.pl
+END
+ubimkvol
+K 25
+svn:wc:ra_dav:version-url
+V 202
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/mkfs.jffs2.for.pc%E9%AA%9E%E5%86%B2%E5%BD%B4/ubimkvol
+END
+flash_otp_info
+K 25
+svn:wc:ra_dav:version-url
+V 208
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/mkfs.jffs2.for.pc%E9%AA%9E%E5%86%B2%E5%BD%B4/flash_otp_info
+END
+nandwrite
+K 25
+svn:wc:ra_dav:version-url
+V 203
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/mkfs.jffs2.for.pc%E9%AA%9E%E5%86%B2%E5%BD%B4/nandwrite
+END
+nand2bin
+K 25
+svn:wc:ra_dav:version-url
+V 202
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/mkfs.jffs2.for.pc%E9%AA%9E%E5%86%B2%E5%BD%B4/nand2bin
+END
+ubirmvol
+K 25
+svn:wc:ra_dav:version-url
+V 202
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/mkfs.jffs2.for.pc%E9%AA%9E%E5%86%B2%E5%BD%B4/ubirmvol
+END
+ubiupdatevol
+K 25
+svn:wc:ra_dav:version-url
+V 206
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/mkfs.jffs2.for.pc%E9%AA%9E%E5%86%B2%E5%BD%B4/ubiupdatevol
+END
+flash_otp_dump
+K 25
+svn:wc:ra_dav:version-url
+V 208
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/mkfs.jffs2.for.pc%E9%AA%9E%E5%86%B2%E5%BD%B4/flash_otp_dump
+END
+ubiattach
+K 25
+svn:wc:ra_dav:version-url
+V 203
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/mkfs.jffs2.for.pc%E9%AA%9E%E5%86%B2%E5%BD%B4/ubiattach
+END
+flash_eraseall
+K 25
+svn:wc:ra_dav:version-url
+V 208
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/mkfs.jffs2.for.pc%E9%AA%9E%E5%86%B2%E5%BD%B4/flash_eraseall
+END
+ubinize
+K 25
+svn:wc:ra_dav:version-url
+V 201
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/mkfs.jffs2.for.pc%E9%AA%9E%E5%86%B2%E5%BD%B4/ubinize
+END
+nanddump
+K 25
+svn:wc:ra_dav:version-url
+V 202
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/mkfs.jffs2.for.pc%E9%AA%9E%E5%86%B2%E5%BD%B4/nanddump
+END
+mkpfi
+K 25
+svn:wc:ra_dav:version-url
+V 199
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/mkfs.jffs2.for.pc%E9%AA%9E%E5%86%B2%E5%BD%B4/mkpfi
+END
+mkfs.jffs2
+K 25
+svn:wc:ra_dav:version-url
+V 204
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/mkfs.jffs2.for.pc%E9%AA%9E%E5%86%B2%E5%BD%B4/mkfs.jffs2
+END
+nftl_format
+K 25
+svn:wc:ra_dav:version-url
+V 205
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/mkfs.jffs2.for.pc%E9%AA%9E%E5%86%B2%E5%BD%B4/nftl_format
+END
+ubicrc32
+K 25
+svn:wc:ra_dav:version-url
+V 202
+/svn/HYSBJKS_2/!svn/ver/1289/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/mtd-utils/mkfs.jffs2.for.pc%E9%AA%9E%E5%86%B2%E5%BD%B4/ubicrc32
+END

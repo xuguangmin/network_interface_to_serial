@@ -1,0 +1,77 @@
+10
+
+dir
+1299
+http://192.168.1.224/svn/HYSBJKS_2/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E5%9C%A8%E7%BA%BF%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F
+http://192.168.1.224/svn/HYSBJKS_2
+
+
+
+2015-04-20T09:39:15.089455Z
+1290
+xuguangmin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e647dfe6-3188-4e55-a42a-0a8f8a025447
+
+uboot-硬校验
+dir
+
+arm-none-linux-gnueabi
+dir
+
+mtd-utils
+dir
+
+upgrade_package
+dir
+
+说明.txt
+file
+
+
+
+
+2015-04-20T09:39:34.468750Z
+f6c44f20daef24b5ecd361d9f1070eda
+2015-04-20T09:39:15.089455Z
+1290
+xuguangmin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+643
+
+kernel_nand_可擦写
+dir
+
