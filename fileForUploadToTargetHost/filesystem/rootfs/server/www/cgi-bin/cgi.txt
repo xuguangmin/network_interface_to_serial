@@ -1,0 +1,280 @@
+GetDataNet()->GetIpstr(): 4 return value error<br>
+port 5050
+GetDataNet()->GetIpstr(): 4 return value error<br>
+GetDataNet()->PortNum(): 4 return value error<br>
+Content-type: text/html
+
+{wordMod:'0', ip:'192.168.1.101', subnetMask:'255.255.255.0', serPort1:'5050', serPort2:'5051', serPort3:'5052', serPort4:'5053', gateWay:'192.168.1.1', regipstr:'', regport:'0'}GetDataNet()->GetIpstr(): 4 return value error<br>
+port 5050
+GetDataNet()->GetIpstr(): 4 return value error<br>
+GetDataNet()->PortNum(): 4 return value error<br>
+Content-type: text/html
+
+{wordMod:'0', ip:'192.168.1.101', subnetMask:'255.255.255.0', serPort1:'5050', serPort2:'5051', serPort3:'5052', serPort4:'5053', gateWay:'192.168.1.1', regipstr:'', regport:'0'}GetDataNet()->GetIpstr(): 4 return value error<br>
+port 5050
+GetDataNet()->GetIpstr(): 4 return value error<br>
+GetDataNet()->PortNum(): 4 return value error<br>
+Content-type: text/html
+
+{wordMod:'0', ip:'192.168.1.101', subnetMask:'255.255.255.0', serPort1:'5050', serPort2:'5051', serPort3:'5052', serPort4:'5053', gateWay:'192.168.1.1', regipstr:'', regport:'0'}GetDataNet()->GetIpstr(): 4 return value error<br>
+port 5050
+Content-type: text/html
+
+{wordMod:'0', ip:'192.168.1.101', subnetMask:'255.255.255.0', serPort1:'5050', serPort2:'5051', serPort3:'5052', serPort4:'5053', gateWay:'192.168.1.1', regipstr:'192.168.1.100', regport:'9000'}GetDataNet()->GetIpstr(): 4 return value error<br>
+port 5050
+Content-type: text/html
+
+{wordMod:'0', ip:'192.168.1.101', subnetMask:'255.255.255.0', serPort1:'5050', serPort2:'5051', serPort3:'5052', serPort4:'5053', gateWay:'192.168.1.1', regipstr:'192.168.1.100', regport:'9000'}GetDataNet()->GetIpstr(): 4 return value error<br>
+port 5050
+Content-type: text/html
+
+{wordMod:'0', ip:'192.168.1.101', subnetMask:'255.255.255.0', serPort1:'5050', serPort2:'5051', serPort3:'5052', serPort4:'5053', gateWay:'192.168.1.1', regipstr:'192.168.1.100', regport:'9000'}GetDataNet()->GetIpstr(): 4 return value error<br>
+port 5050
+Content-type: text/html
+
+{wordMod:'0', ip:'192.168.1.101', subnetMask:'255.255.255.0', serPort1:'5050', serPort2:'5051', serPort3:'5052', serPort4:'5053', gateWay:'192.168.1.1', regipstr:'192.168.1.100', regport:'9000'}GetDataNet()->GetIpstr(): 4 return value error<br>
+port 5050
+GetDataNet()->GetIpstr(): 4 return value error<br>
+GetDataNet()->PortNum(): 4 return value error<br>
+Content-type: text/html
+
+{wordMod:'0', ip:'192.168.1.101', subnetMask:'255.255.255.0', serPort1:'5050', serPort2:'5051', serPort3:'5052', serPort4:'5053', gateWay:'192.168.1.1', regipstr:'', regport:'0'}GetDataNet()->GetIpstr(): 4 return value error<br>
+port 5050
+GetDataNet()->GetIpstr(): 4 return value error<br>
+GetDataNet()->PortNum(): 4 return value error<br>
+Content-type: text/html
+
+{wordMod:'0', ip:'192.168.1.101', subnetMask:'255.255.255.0', serPort1:'5050', serPort2:'5051', serPort3:'5052', serPort4:'5053', gateWay:'192.168.1.1', regipstr:'', regport:'0'}GetDataNet()->GetIpstr(): 4 return value error<br>
+port 5050
+Content-type: text/html
+
+{wordMod:'0', ip:'192.168.1.101', subnetMask:'255.255.255.0', serPort1:'5050', serPort2:'5051', serPort3:'5052', serPort4:'5053', gateWay:'192.168.1.1', regipstr:'192.168.1.100', regport:'9000'}GetDataNet()->GetIpstr(): 4 return value error<br>
+port 5050
+GetDataNet()->GetIpstr(): 4 return value error<br>
+GetDataNet()->PortNum(): 4 return value error<br>
+Content-type: text/html
+
+{wordMod:'0', ip:'192.168.1.101', subnetMask:'255.255.255.0', serPort1:'5050', serPort2:'5051', serPort3:'5052', serPort4:'5053', gateWay:'192.168.1.1', regipstr:'', regport:'0'}GetDataNet()->GetIpstr(): 4 return value error<br>
+port 5050
+Content-type: text/html
+
+{wordMod:'0', ip:'192.168.1.101', subnetMask:'255.255.255.0', serPort1:'5050', serPort2:'5051', serPort3:'5052', serPort4:'5053', gateWay:'192.168.1.1', regipstr:'192.168.1.100', regport:'9000'}GetDataNet()->GetIpstr(): 4 return value error<br>
+port 5050
+Content-type: text/html
+
+{wordMod:'0', ip:'192.168.1.101', subnetMask:'255.255.255.0', serPort1:'5050', serPort2:'5051', serPort3:'5052', serPort4:'5053', gateWay:'192.168.1.1', regipstr:'192.168.1.100', regport:'9000'}port 5050
+GetDataNet()->GetIpstr(): 4 return value error<br>
+GetDataNet()->PortNum(): 4 return value error<br>
+Content-type: text/html
+
+{wordMod:'0', ip:'192.168.1.101', subnetMask:'255.255.255.0', serPort1:'5050', serPort2:'5051', serPort3:'5052', serPort4:'5053', gateWay:'192.168.1.1', regipstr:'', regport:'0'}port 5050
+Content-type: text/html
+
+{wordMod:'2', ip:'192.168.1.101', subnetMask:'255.255.255.0', serPort1:'5050', serPort2:'5051', serPort3:'5052', serPort4:'5053', gateWay:'192.168.1.1', regipstr:'192.168.1.100', regport:'9000'}port 5050
+GetDataNet()->GetIpstr(): 4 return value error<br>
+GetDataNet()->PortNum(): 4 return value error<br>
+Content-type: text/html
+
+{wordMod:'0', ip:'192.168.1.101', subnetMask:'255.255.255.0', serPort1:'5050', serPort2:'5051', serPort3:'5052', serPort4:'5053', gateWay:'192.168.1.1', regipstr:'', regport:'0'}port 5050
+Content-type: text/html
+
+{wordMod:'2', ip:'192.168.1.101', subnetMask:'255.255.255.0', serPort1:'5050', serPort2:'5051', serPort3:'5052', serPort4:'5053', gateWay:'192.168.1.1', regipstr:'192.168.1.100', regport:'9000'}port 5050
+Content-type: text/html
+
+{wordMod:'1', ip:'192.168.1.101', subnetMask:'255.255.255.0', serPort1:'5050', serPort2:'5051', serPort3:'5052', serPort4:'5053', gateWay:'192.168.1.1', regipstr:'192.168.1.100', regport:'9000'}port 5050
+GetDataNet()->GetIpstr(): 4 return value error<br>
+GetDataNet()->PortNum(): 4 return value error<br>
+Content-type: text/html
+
+{wordMod:'0', ip:'192.168.1.101', subnetMask:'255.255.255.0', serPort1:'5050', serPort2:'5051', serPort3:'5052', serPort4:'5053', gateWay:'192.168.1.1', regipstr:'', regport:'0'}port 5050
+Content-type: text/html
+
+{wordMod:'2', ip:'192.168.1.101', subnetMask:'255.255.255.0', serPort1:'5050', serPort2:'5051', serPort3:'5052', serPort4:'5053', gateWay:'192.168.1.1', regipstr:'192.168.1.100', regport:'9000'}port 5050
+GetDataNet()->GetIpstr(): 4 return value error<br>
+GetDataNet()->PortNum(): 4 return value error<br>
+Content-type: text/html
+
+{wordMod:'0', ip:'192.168.1.101', subnetMask:'255.255.255.0', serPort1:'5050', serPort2:'5051', serPort3:'5052', serPort4:'5053', gateWay:'192.168.1.1', regipstr:'', regport:'0'}port 5050
+Content-type: text/html
+
+{wordMod:'2', ip:'192.168.1.101', subnetMask:'255.255.255.0', serPort1:'5050', serPort2:'5051', serPort3:'5052', serPort4:'5053', gateWay:'192.168.1.1', regipstr:'192.168.1.100', regport:'9000'}port 5050
+GetDataNet()->GetIpstr(): 4 return value error<br>
+GetDataNet()->PortNum(): 4 return value error<br>
+Content-type: text/html
+
+{wordMod:'0', ip:'192.168.1.101', subnetMask:'255.255.255.0', serPort1:'5050', serPort2:'5051', serPort3:'5052', serPort4:'5053', gateWay:'192.168.1.1', regipstr:'', regport:'0'}port 5050
+Content-type: text/html
+
+{wordMod:'2', ip:'192.168.1.101', subnetMask:'255.255.255.0', serPort1:'5050', serPort2:'5051', serPort3:'5052', serPort4:'5053', gateWay:'192.168.1.1', regipstr:'192.168.1.100', regport:'9000'}port 5050
+GetDataNet()->GetIpstr(): 4 return value error<br>
+GetDataNet()->PortNum(): 4 return value error<br>
+Content-type: text/html
+
+{wordMod:'0', ip:'192.168.1.101', subnetMask:'255.255.255.0', serPort1:'5050', serPort2:'5051', serPort3:'5052', serPort4:'5053', gateWay:'192.168.1.1', regipstr:'', regport:'0'}port 5050
+Content-type: text/html
+
+{wordMod:'2', ip:'192.168.1.101', subnetMask:'255.255.255.0', serPort1:'5050', serPort2:'5051', serPort3:'5052', serPort4:'5053', gateWay:'192.168.1.1', regipstr:'192.168.1.100', regport:'9000'}port 5050
+GetDataNet()->GetIpstr(): 4 return value error<br>
+GetDataNet()->PortNum(): 4 return value error<br>
+Content-type: text/html
+
+{wordMod:'0', ip:'192.168.1.101', subnetMask:'255.255.255.0', serPort1:'5050', serPort2:'5051', serPort3:'5052', serPort4:'5053', gateWay:'192.168.1.1', regipstr:'', regport:'0'}port 1020
+GetDataNet()->GetIpstr(): 4 return value error<br>
+GetDataNet()->PortNum(): 4 return value error<br>
+Content-type: text/html
+
+{wordMod:'0', ip:'192.168.1.101', subnetMask:'255.255.255.0', serPort1:'1020', serPort2:'5051', serPort3:'5052', serPort4:'5053', gateWay:'192.168.1.1', regipstr:'', regport:'0'}port 1020
+Content-type: text/html
+
+{wordMod:'1', ip:'192.168.1.101', subnetMask:'255.255.255.0', serPort1:'1020', serPort2:'5051', serPort3:'5052', serPort4:'5053', gateWay:'192.168.1.1', regipstr:'192.168.1.100', regport:'9000'}port 1020
+Content-type: text/html
+
+{wordMod:'2', ip:'192.168.1.101', subnetMask:'255.255.255.0', serPort1:'1020', serPort2:'5051', serPort3:'5052', serPort4:'5053', gateWay:'192.168.1.1', regipstr:'192.168.1.100', regport:'9000'}port 1020
+Content-type: text/html
+
+{wordMod:'2', ip:'192.168.1.101', subnetMask:'255.255.255.0', serPort1:'1020', serPort2:'5051', serPort3:'5052', serPort4:'5053', gateWay:'192.168.1.1', regipstr:'192.168.1.100', regport:'9000'}port 1020
+Content-type: text/html
+
+{wordMod:'2', ip:'192.168.1.101', subnetMask:'255.255.255.0', serPort1:'1020', serPort2:'5051', serPort3:'5052', serPort4:'5053', gateWay:'192.168.1.1', regipstr:'192.168.1.100', regport:'9000'}port 1020
+Content-type: text/html
+
+{wordMod:'2', ip:'192.168.1.101', subnetMask:'255.255.255.0', serPort1:'1020', serPort2:'5051', serPort3:'5052', serPort4:'5053', gateWay:'192.168.1.1', regipstr:'192.168.1.100', regport:'9000'}port 1020
+Content-type: text/html
+
+{wordMod:'2', ip:'192.168.1.101', subnetMask:'255.255.255.0', serPort1:'1020', serPort2:'5051', serPort3:'5052', serPort4:'5053', gateWay:'192.168.1.1', regipstr:'192.168.1.100', regport:'9000'}port 1020
+Content-type: text/html
+
+{wordMod:'2', ip:'192.168.1.101', subnetMask:'255.255.255.0', serPort1:'1020', serPort2:'5051', serPort3:'5052', serPort4:'5053', gateWay:'192.168.1.1', regipstr:'192.168.1.100', regport:'9000'}port 1020
+Content-type: text/html
+
+{wordMod:'2', ip:'192.168.1.101', subnetMask:'255.255.255.0', serPort1:'1020', serPort2:'5051', serPort3:'5052', serPort4:'5053', gateWay:'192.168.1.1', regipstr:'192.168.1.100', regport:'9000'}port 1020
+Content-type: text/html
+
+{wordMod:'2', ip:'192.168.1.101', subnetMask:'255.255.255.0', serPort1:'1020', serPort2:'5051', serPort3:'5052', serPort4:'5053', gateWay:'192.168.1.1', regipstr:'192.168.1.100', regport:'9000'}port 1020
+Content-type: text/html
+
+{wordMod:'2', ip:'192.168.1.101', subnetMask:'255.255.255.0', serPort1:'1020', serPort2:'5051', serPort3:'5052', serPort4:'5053', gateWay:'192.168.1.1', regipstr:'192.168.1.100', regport:'9000'}port 1020
+Content-type: text/html
+
+{wordMod:'2', ip:'192.168.1.101', subnetMask:'255.255.255.0', serPort1:'1020', serPort2:'5051', serPort3:'5052', serPort4:'5053', gateWay:'192.168.1.1', regipstr:'192.168.1.100', regport:'9000'}port 1020
+Content-type: text/html
+
+{wordMod:'2', ip:'192.168.1.101', subnetMask:'255.255.255.0', serPort1:'1020', serPort2:'5051', serPort3:'5052', serPort4:'5053', gateWay:'192.168.1.1', regipstr:'192.168.1.100', regport:'9000'}port 1020
+Content-type: text/html
+
+{wordMod:'2', ip:'192.168.1.101', subnetMask:'255.255.255.0', serPort1:'1020', serPort2:'5051', serPort3:'5052', serPort4:'5053', gateWay:'192.168.1.1', regipstr:'192.168.1.100', regport:'9000'}port 1020
+Content-type: text/html
+
+{wordMod:'2', ip:'192.168.1.101', subnetMask:'255.255.255.0', serPort1:'1020', serPort2:'5051', serPort3:'5052', serPort4:'5053', gateWay:'192.168.1.1', regipstr:'192.168.1.100', regport:'9000'}port 1020
+Content-type: text/html
+
+{wordMod:'2', ip:'192.168.1.101', subnetMask:'255.255.255.0', serPort1:'1020', serPort2:'5051', serPort3:'5052', serPort4:'5053', gateWay:'192.168.1.1', regipstr:'192.168.1.100', regport:'9000'}port 1020
+Content-type: text/html
+
+{wordMod:'2', ip:'192.168.1.101', subnetMask:'255.255.255.0', serPort1:'1020', serPort2:'5051', serPort3:'5052', serPort4:'5053', gateWay:'192.168.1.1', regipstr:'192.168.1.100', regport:'9000'}port 1020
+Content-type: text/html
+
+{wordMod:'2', ip:'192.168.1.101', subnetMask:'255.255.255.0', serPort1:'1020', serPort2:'5051', serPort3:'5052', serPort4:'5053', gateWay:'192.168.1.1', regipstr:'192.168.1.100', regport:'9000'}port 1020
+Content-type: text/html
+
+{wordMod:'2', ip:'192.168.1.101', subnetMask:'255.255.255.0', serPort1:'1020', serPort2:'5051', serPort3:'5052', serPort4:'5053', gateWay:'192.168.1.1', regipstr:'192.168.1.100', regport:'9000'}port 1020
+Content-type: text/html
+
+{wordMod:'2', ip:'192.168.1.101', subnetMask:'255.255.255.0', serPort1:'1020', serPort2:'5051', serPort3:'5052', serPort4:'5053', gateWay:'192.168.1.1', regipstr:'192.168.1.100', regport:'9000'}port 1020
+Content-type: text/html
+
+{wordMod:'2', ip:'192.168.1.101', subnetMask:'255.255.255.0', serPort1:'1020', serPort2:'5051', serPort3:'5052', serPort4:'5053', gateWay:'192.168.1.1', regipstr:'192.168.1.100', regport:'9000'}port 1020
+Content-type: text/html
+
+{wordMod:'2', ip:'192.168.1.101', subnetMask:'255.255.255.0', serPort1:'1020', serPort2:'5051', serPort3:'5052', serPort4:'5053', gateWay:'192.168.1.1', regipstr:'192.168.1.100', regport:'9000'}port 1020
+Content-type: text/html
+
+{wordMod:'2', ip:'192.168.1.101', subnetMask:'255.255.255.0', serPort1:'1020', serPort2:'5051', serPort3:'5052', serPort4:'5053', gateWay:'192.168.1.1', regipstr:'192.168.1.100', regport:'9000'}port 1020
+Content-type: text/html
+
+{wordMod:'2', ip:'192.168.1.101', subnetMask:'255.255.255.0', serPort1:'1020', serPort2:'5051', serPort3:'5052', serPort4:'5053', gateWay:'192.168.1.1', regipstr:'192.168.1.100', regport:'9000'}port 1020
+GetDataNet()->GetIpstr(): 4 return value error<br>
+GetDataNet()->PortNum(): 4 return value error<br>
+Content-type: text/html
+
+{wordMod:'0', ip:'192.168.1.101', subnetMask:'255.255.255.0', serPort1:'1020', serPort2:'5051', serPort3:'5052', serPort4:'5053', gateWay:'192.168.1.1', regipstr:'', regport:'0'}port 5050
+Content-type: text/html
+
+{wordMod:'2', ip:'192.168.1.101', subnetMask:'255.255.255.0', serPort1:'5050', serPort2:'5051', serPort3:'5052', serPort4:'5053', gateWay:'192.168.1.1', regipstr:'192.168.1.100', regport:'9000'}port 5050
+GetDataNet()->GetIpstr(): 4 return value error<br>
+GetDataNet()->PortNum(): 4 return value error<br>
+Content-type: text/html
+
+{wordMod:'0', ip:'192.168.1.101', subnetMask:'255.255.255.0', serPort1:'5050', serPort2:'5051', serPort3:'5052', serPort4:'5053', gateWay:'192.168.1.1', regipstr:'', regport:'0'}port 5050
+Content-type: text/html
+
+{wordMod:'2', ip:'192.168.1.101', subnetMask:'255.255.255.0', serPort1:'5050', serPort2:'5051', serPort3:'5052', serPort4:'5053', gateWay:'192.168.1.1', regipstr:'192.168.1.100', regport:'9000'}port 5050
+GetDataNet()->GetIpstr(): 4 return value error<br>
+GetDataNet()->PortNum(): 4 return value error<br>
+Content-type: text/html
+
+{wordMod:'0', ip:'192.168.1.101', subnetMask:'255.255.255.0', serPort1:'5050', serPort2:'5051', serPort3:'5052', serPort4:'5053', gateWay:'192.168.1.1', regipstr:'', regport:'0'}port 5050
+Content-type: text/html
+
+{wordMod:'2', ip:'192.168.1.101', subnetMask:'255.255.255.0', serPort1:'5050', serPort2:'5051', serPort3:'5052', serPort4:'5053', gateWay:'192.168.1.1', regipstr:'192.168.1.100', regport:'9000'}port 5050
+Content-type: text/html
+
+{wordMod:'1', ip:'192.168.1.101', subnetMask:'255.255.255.0', serPort1:'5050', serPort2:'5051', serPort3:'5052', serPort4:'5053', gateWay:'192.168.1.1', regipstr:'192.168.1.100', regport:'9000'}port 5050
+Content-type: text/html
+
+{wordMod:'2', ip:'192.168.1.101', subnetMask:'255.255.255.0', serPort1:'5050', serPort2:'5051', serPort3:'5052', serPort4:'5053', gateWay:'192.168.1.1', regipstr:'192.168.1.100', regport:'9000'}port 1020
+GetDataNet()->GetIpstr(): 4 return value error<br>
+GetDataNet()->PortNum(): 4 return value error<br>
+Content-type: text/html
+
+{wordMod:'0', ip:'192.168.1.101', subnetMask:'255.255.255.0', serPort1:'1020', serPort2:'1021', serPort3:'1022', serPort4:'1023', gateWay:'192.168.1.3', regipstr:'', regport:'0'}port 1020
+Content-type: text/html
+
+{wordMod:'1', ip:'192.168.1.101', subnetMask:'255.255.255.0', serPort1:'1020', serPort2:'1021', serPort3:'1022', serPort4:'1023', gateWay:'192.168.1.3', regipstr:'192.168.1.100', regport:'0'}port 1020
+Content-type: text/html
+
+{wordMod:'2', ip:'192.168.1.101', subnetMask:'255.255.255.0', serPort1:'1020', serPort2:'1021', serPort3:'1022', serPort4:'1023', gateWay:'192.168.1.103', regipstr:'192.168.1.100', regport:'9000'}port 1020
+GetDataNet()->GetIpstr(): 4 return value error<br>
+GetDataNet()->PortNum(): 4 return value error<br>
+Content-type: text/html
+
+{wordMod:'0', ip:'192.168.1.101', subnetMask:'255.255.255.0', serPort1:'1020', serPort2:'1021', serPort3:'1022', serPort4:'1023', gateWay:'192.168.1.103', regipstr:'', regport:'0'}port 1020
+Content-type: text/html
+
+{wordMod:'2', ip:'192.168.1.101', subnetMask:'255.255.255.0', serPort1:'1020', serPort2:'1021', serPort3:'1022', serPort4:'1023', gateWay:'192.168.1.103', regipstr:'192.168.1.100', regport:'9000'}port 1020
+Content-type: text/html
+
+{wordMod:'2', ip:'192.168.1.101', subnetMask:'255.255.255.0', serPort1:'1020', serPort2:'1021', serPort3:'1022', serPort4:'1023', gateWay:'192.168.1.103', regipstr:'192.168.1.100', regport:'9000'}port 1020
+Content-type: text/html
+
+{wordMod:'2', ip:'192.168.1.101', subnetMask:'255.255.255.0', serPort1:'1020', serPort2:'1021', serPort3:'1022', serPort4:'1023', gateWay:'192.168.1.103', regipstr:'192.168.1.100', regport:'9000'}port 1020
+GetDataNet()->GetIpstr(): 4 return value error<br>
+GetDataNet()->PortNum(): 4 return value error<br>
+Content-type: text/html
+
+{wordMod:'0', ip:'192.168.1.101', subnetMask:'255.255.255.0', serPort1:'1020', serPort2:'1021', serPort3:'1022', serPort4:'1023', gateWay:'192.168.1.103', regipstr:'', regport:'0'}port 1020
+GetDataNet()->GetIpstr(): 4 return value error<br>
+GetDataNet()->PortNum(): 4 return value error<br>
+Content-type: text/html
+
+{wordMod:'0', ip:'192.168.1.101', subnetMask:'255.255.255.0', serPort1:'1020', serPort2:'1021', serPort3:'1022', serPort4:'1023', gateWay:'192.168.1.103', regipstr:'', regport:'0'}port 1020
+GetDataNet()->GetIpstr(): 4 return value error<br>
+GetDataNet()->PortNum(): 4 return value error<br>
+Content-type: text/html
+
+{wordMod:'0', ip:'192.168.1.101', subnetMask:'255.255.255.0', serPort1:'1020', serPort2:'1021', serPort3:'1022', serPort4:'1023', gateWay:'192.168.1.103', regipstr:'', regport:'0'}port 1020
+Content-type: text/html
+
+{wordMod:'2', ip:'192.168.1.101', subnetMask:'255.255.255.0', serPort1:'1020', serPort2:'1021', serPort3:'1022', serPort4:'1023', gateWay:'192.168.1.103', regipstr:'192.168.1.100', regport:'9000'}port 1020
+Content-type: text/html
+
+{wordMod:'2', ip:'192.168.1.101', subnetMask:'255.255.255.0', serPort1:'1020', serPort2:'1021', serPort3:'1022', serPort4:'1023', gateWay:'192.168.1.103', regipstr:'192.168.1.100', regport:'9000'}port 1020
+Content-type: text/html
+
+{wordMod:'2', ip:'192.168.1.101', subnetMask:'255.255.255.0', serPort1:'1020', serPort2:'1021', serPort3:'1022', serPort4:'1023', gateWay:'192.168.1.103', regipstr:'192.168.1.100', regport:'9000'}port 1020
+Content-type: text/html
+
+{wordMod:'2', ip:'192.168.1.101', subnetMask:'255.255.255.0', serPort1:'1020', serPort2:'1021', serPort3:'1022', serPort4:'1023', gateWay:'192.168.1.103', regipstr:'192.168.1.100', regport:'9000'}port 1020
+Content-type: text/html
+
+{wordMod:'2', ip:'192.168.1.101', subnetMask:'255.255.255.0', serPort1:'1020', serPort2:'1021', serPort3:'1022', serPort4:'1023', gateWay:'192.168.1.103', regipstr:'192.168.1.100', regport:'9000'}

@@ -1,0 +1,48 @@
+1、擦除nand flash
+
+    nand scrub
+
+    出现“Really scrub this NAND flash? <y/N>”后，选择y回车
+
+    nand erase
+
+2、下载uboot到扩展板，执行如下步骤：
+    
+　　dnw c0008000  （dnw必须小写）
+     
+　　在dnw软件上选择菜单“USB port---->Transmit---->Transmit”，选择文件1.u-boot-256M.bin;
+　　文件传输完成后。
+
+    nand erase 0 40000;nand write c0008000 0 40000;reset
+      
+
+
+3、下载内核
+    
+    dnw c0008000
+
+    在dnw软件上选择菜单“USB port---->Transmit---->Transmit”，选择文件2.zImage_mainBoard_oneDM9000;
+　　文件传输完成后。
+
+　　nand erase 40000 300000;nand write c0008000 40000 300000
+　　
+　　
+4、下载yaffs2文件系统
+    
+    dnw c0008000
+    
+    在dnw软件上选择菜单“USB port---->Transmit---->Transmit”，选择文件3.yaffs2_image_jikong_20140504.bin;
+　　文件传输完成后。
+
+    nand erase 400000 10000000;nand write.yaffs c0008000 400000 8c9ac0;reset
+
+
+    说明：8c9ac0表示文件系统大小，根据实际文件系统大小而定
+          下载文件系统的时候，会在打印信息上显示出来
+          这个信息类似于：Download Filesize:8c9ac0
+
+
+nand erase 400000 10000000;nand write.yaffs c0008000 400000 d93d40;reset
+
+　　
+

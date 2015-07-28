@@ -1,0 +1,28 @@
+<html>
+<head>
+<link href="style.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="./js.js"></script>
+<script type="text/javascript" src="./jquery.js"></script>
+<script type="text/javascript">
+<!--
+function modifyHtml(dataObj)
+{
+	$("#serialName").html(dataObj.serialName);
+	$("select[name='baudRate']").val(dataObj.baudRate);
+	$("select[name='dataBit']").val(dataObj.dataBit);
+	$("select[name='stopBit']").val(dataObj.stopBit);
+	$("select[name='parityBit']").val(dataObj.parityBit);
+}
+
+$(document).ready(function(){
+	$.get(
+		'./cgi-bin/serial_1.cgi',//CGI程序路径
+		function(data){
+			var dataObj=eval("("+data+")");
+			modifyHtml(dataObj);
+		} //第二个参数，回调函数，处理服务器返回的数据
+)
+	$("#save").click(function(){
+		var options = {
+			target: '#divToUpdate',
+			url: './cgi-bin/testjson.json',//CGI

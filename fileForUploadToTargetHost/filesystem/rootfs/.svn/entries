@@ -1,0 +1,147 @@
+10
+
+dir
+1309
+http://192.168.1.224/svn/HYSBJKS_2/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E4%B8%8A%E4%BC%A0%E5%88%B0%E6%89%A9%E5%B1%95%E6%9D%BF%E7%9A%84%E6%96%87%E4%BB%B6/%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F/rootfs
+http://192.168.1.224/svn/HYSBJKS_2
+
+
+
+2015-04-22T07:45:00.159825Z
+1309
+xuguangmin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e647dfe6-3188-4e55-a42a-0a8f8a025447
+
+jikong
+dir
+
+root
+dir
+
+www
+dir
+
+linuxrc
+file
+
+
+
+
+2015-04-21T02:56:22.000000Z
+ab848cdf310a324b2a2f9a6912951612
+2015-04-22T07:45:00.159825Z
+1309
+xuguangmin
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1839228
+
+home
+dir
+
+var
+dir
+
+sbin
+dir
+
+mnt
+dir
+
+tmp
+dir
+
+opt
+dir
+
+proc
+dir
+
+lib
+dir
+
+server
+dir
+
+bin
+dir
+
+usr
+dir
+
+.ash_history
+file
+
+
+
+
+2015-04-21T02:56:22.000000Z
+3631b3632156f969e0cd55731940bf8a
+2015-04-22T07:45:00.159825Z
+1309
+xuguangmin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+196
+
+etc
+dir
+
+dev
+dir
+
+sys
+dir
+

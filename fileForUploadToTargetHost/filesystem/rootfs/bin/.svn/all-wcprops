@@ -1,0 +1,527 @@
+K 25
+svn:wc:ra_dav:version-url
+V 213
+/svn/HYSBJKS_2/!svn/ver/1309/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E4%B8%8A%E4%BC%A0%E5%88%B0%E6%89%A9%E5%B1%95%E6%9D%BF%E7%9A%84%E6%96%87%E4%BB%B6/%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F/rootfs/bin
+END
+mt
+K 25
+svn:wc:ra_dav:version-url
+V 216
+/svn/HYSBJKS_2/!svn/ver/1309/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E4%B8%8A%E4%BC%A0%E5%88%B0%E6%89%A9%E5%B1%95%E6%9D%BF%E7%9A%84%E6%96%87%E4%BB%B6/%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F/rootfs/bin/mt
+END
+mv
+K 25
+svn:wc:ra_dav:version-url
+V 216
+/svn/HYSBJKS_2/!svn/ver/1309/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E4%B8%8A%E4%BC%A0%E5%88%B0%E6%89%A9%E5%B1%95%E6%9D%BF%E7%9A%84%E6%96%87%E4%BB%B6/%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F/rootfs/bin/mv
+END
+makemime
+K 25
+svn:wc:ra_dav:version-url
+V 222
+/svn/HYSBJKS_2/!svn/ver/1309/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E4%B8%8A%E4%BC%A0%E5%88%B0%E6%89%A9%E5%B1%95%E6%9D%BF%E7%9A%84%E6%96%87%E4%BB%B6/%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F/rootfs/bin/makemime
+END
+setarch
+K 25
+svn:wc:ra_dav:version-url
+V 221
+/svn/HYSBJKS_2/!svn/ver/1309/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E4%B8%8A%E4%BC%A0%E5%88%B0%E6%89%A9%E5%B1%95%E6%9D%BF%E7%9A%84%E6%96%87%E4%BB%B6/%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F/rootfs/bin/setarch
+END
+kill
+K 25
+svn:wc:ra_dav:version-url
+V 218
+/svn/HYSBJKS_2/!svn/ver/1309/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E4%B8%8A%E4%BC%A0%E5%88%B0%E6%89%A9%E5%B1%95%E6%9D%BF%E7%9A%84%E6%96%87%E4%BB%B6/%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F/rootfs/bin/kill
+END
+fdflush
+K 25
+svn:wc:ra_dav:version-url
+V 221
+/svn/HYSBJKS_2/!svn/ver/1309/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E4%B8%8A%E4%BC%A0%E5%88%B0%E6%89%A9%E5%B1%95%E6%9D%BF%E7%9A%84%E6%96%87%E4%BB%B6/%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F/rootfs/bin/fdflush
+END
+run-parts
+K 25
+svn:wc:ra_dav:version-url
+V 223
+/svn/HYSBJKS_2/!svn/ver/1309/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E4%B8%8A%E4%BC%A0%E5%88%B0%E6%89%A9%E5%B1%95%E6%9D%BF%E7%9A%84%E6%96%87%E4%BB%B6/%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F/rootfs/bin/run-parts
+END
+mktemp
+K 25
+svn:wc:ra_dav:version-url
+V 220
+/svn/HYSBJKS_2/!svn/ver/1309/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E4%B8%8A%E4%BC%A0%E5%88%B0%E6%89%A9%E5%B1%95%E6%9D%BF%E7%9A%84%E6%96%87%E4%BB%B6/%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F/rootfs/bin/mktemp
+END
+catv
+K 25
+svn:wc:ra_dav:version-url
+V 218
+/svn/HYSBJKS_2/!svn/ver/1309/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E4%B8%8A%E4%BC%A0%E5%88%B0%E6%89%A9%E5%B1%95%E6%9D%BF%E7%9A%84%E6%96%87%E4%BB%B6/%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F/rootfs/bin/catv
+END
+usleep
+K 25
+svn:wc:ra_dav:version-url
+V 220
+/svn/HYSBJKS_2/!svn/ver/1309/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E4%B8%8A%E4%BC%A0%E5%88%B0%E6%89%A9%E5%B1%95%E6%9D%BF%E7%9A%84%E6%96%87%E4%BB%B6/%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F/rootfs/bin/usleep
+END
+dmesg
+K 25
+svn:wc:ra_dav:version-url
+V 219
+/svn/HYSBJKS_2/!svn/ver/1309/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E4%B8%8A%E4%BC%A0%E5%88%B0%E6%89%A9%E5%B1%95%E6%9D%BF%E7%9A%84%E6%96%87%E4%BB%B6/%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F/rootfs/bin/dmesg
+END
+more
+K 25
+svn:wc:ra_dav:version-url
+V 218
+/svn/HYSBJKS_2/!svn/ver/1309/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E4%B8%8A%E4%BC%A0%E5%88%B0%E6%89%A9%E5%B1%95%E6%9D%BF%E7%9A%84%E6%96%87%E4%BB%B6/%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F/rootfs/bin/more
+END
+chgrp
+K 25
+svn:wc:ra_dav:version-url
+V 219
+/svn/HYSBJKS_2/!svn/ver/1309/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E4%B8%8A%E4%BC%A0%E5%88%B0%E6%89%A9%E5%B1%95%E6%9D%BF%E7%9A%84%E6%96%87%E4%BB%B6/%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F/rootfs/bin/chgrp
+END
+printenv
+K 25
+svn:wc:ra_dav:version-url
+V 222
+/svn/HYSBJKS_2/!svn/ver/1309/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E4%B8%8A%E4%BC%A0%E5%88%B0%E6%89%A9%E5%B1%95%E6%9D%BF%E7%9A%84%E6%96%87%E4%BB%B6/%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F/rootfs/bin/printenv
+END
+cat
+K 25
+svn:wc:ra_dav:version-url
+V 217
+/svn/HYSBJKS_2/!svn/ver/1309/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E4%B8%8A%E4%BC%A0%E5%88%B0%E6%89%A9%E5%B1%95%E6%9D%BF%E7%9A%84%E6%96%87%E4%BB%B6/%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F/rootfs/bin/cat
+END
+mknod
+K 25
+svn:wc:ra_dav:version-url
+V 219
+/svn/HYSBJKS_2/!svn/ver/1309/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E4%B8%8A%E4%BC%A0%E5%88%B0%E6%89%A9%E5%B1%95%E6%9D%BF%E7%9A%84%E6%96%87%E4%BB%B6/%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F/rootfs/bin/mknod
+END
+login
+K 25
+svn:wc:ra_dav:version-url
+V 219
+/svn/HYSBJKS_2/!svn/ver/1309/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E4%B8%8A%E4%BC%A0%E5%88%B0%E6%89%A9%E5%B1%95%E6%9D%BF%E7%9A%84%E6%96%87%E4%BB%B6/%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F/rootfs/bin/login
+END
+cttyhack
+K 25
+svn:wc:ra_dav:version-url
+V 222
+/svn/HYSBJKS_2/!svn/ver/1309/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E4%B8%8A%E4%BC%A0%E5%88%B0%E6%89%A9%E5%B1%95%E6%9D%BF%E7%9A%84%E6%96%87%E4%BB%B6/%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F/rootfs/bin/cttyhack
+END
+sed
+K 25
+svn:wc:ra_dav:version-url
+V 217
+/svn/HYSBJKS_2/!svn/ver/1309/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E4%B8%8A%E4%BC%A0%E5%88%B0%E6%89%A9%E5%B1%95%E6%9D%BF%E7%9A%84%E6%96%87%E4%BB%B6/%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F/rootfs/bin/sed
+END
+rmdir
+K 25
+svn:wc:ra_dav:version-url
+V 219
+/svn/HYSBJKS_2/!svn/ver/1309/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E4%B8%8A%E4%BC%A0%E5%88%B0%E6%89%A9%E5%B1%95%E6%9D%BF%E7%9A%84%E6%96%87%E4%BB%B6/%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F/rootfs/bin/rmdir
+END
+hostname
+K 25
+svn:wc:ra_dav:version-url
+V 222
+/svn/HYSBJKS_2/!svn/ver/1309/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E4%B8%8A%E4%BC%A0%E5%88%B0%E6%89%A9%E5%B1%95%E6%9D%BF%E7%9A%84%E6%96%87%E4%BB%B6/%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F/rootfs/bin/hostname
+END
+rm
+K 25
+svn:wc:ra_dav:version-url
+V 216
+/svn/HYSBJKS_2/!svn/ver/1309/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E4%B8%8A%E4%BC%A0%E5%88%B0%E6%89%A9%E5%B1%95%E6%9D%BF%E7%9A%84%E6%96%87%E4%BB%B6/%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F/rootfs/bin/rm
+END
+vi
+K 25
+svn:wc:ra_dav:version-url
+V 216
+/svn/HYSBJKS_2/!svn/ver/1309/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E4%B8%8A%E4%BC%A0%E5%88%B0%E6%89%A9%E5%B1%95%E6%9D%BF%E7%9A%84%E6%96%87%E4%BB%B6/%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F/rootfs/bin/vi
+END
+ping6
+K 25
+svn:wc:ra_dav:version-url
+V 219
+/svn/HYSBJKS_2/!svn/ver/1309/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E4%B8%8A%E4%BC%A0%E5%88%B0%E6%89%A9%E5%B1%95%E6%9D%BF%E7%9A%84%E6%96%87%E4%BB%B6/%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F/rootfs/bin/ping6
+END
+iplink
+K 25
+svn:wc:ra_dav:version-url
+V 220
+/svn/HYSBJKS_2/!svn/ver/1309/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E4%B8%8A%E4%BC%A0%E5%88%B0%E6%89%A9%E5%B1%95%E6%9D%BF%E7%9A%84%E6%96%87%E4%BB%B6/%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F/rootfs/bin/iplink
+END
+iproute
+K 25
+svn:wc:ra_dav:version-url
+V 221
+/svn/HYSBJKS_2/!svn/ver/1309/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E4%B8%8A%E4%BC%A0%E5%88%B0%E6%89%A9%E5%B1%95%E6%9D%BF%E7%9A%84%E6%96%87%E4%BB%B6/%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F/rootfs/bin/iproute
+END
+chmod
+K 25
+svn:wc:ra_dav:version-url
+V 219
+/svn/HYSBJKS_2/!svn/ver/1309/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E4%B8%8A%E4%BC%A0%E5%88%B0%E6%89%A9%E5%B1%95%E6%9D%BF%E7%9A%84%E6%96%87%E4%BB%B6/%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F/rootfs/bin/chmod
+END
+pwd
+K 25
+svn:wc:ra_dav:version-url
+V 217
+/svn/HYSBJKS_2/!svn/ver/1309/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E4%B8%8A%E4%BC%A0%E5%88%B0%E6%89%A9%E5%B1%95%E6%9D%BF%E7%9A%84%E6%96%87%E4%BB%B6/%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F/rootfs/bin/pwd
+END
+ping
+K 25
+svn:wc:ra_dav:version-url
+V 218
+/svn/HYSBJKS_2/!svn/ver/1309/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E4%B8%8A%E4%BC%A0%E5%88%B0%E6%89%A9%E5%B1%95%E6%9D%BF%E7%9A%84%E6%96%87%E4%BB%B6/%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F/rootfs/bin/ping
+END
+iptunnel
+K 25
+svn:wc:ra_dav:version-url
+V 222
+/svn/HYSBJKS_2/!svn/ver/1309/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E4%B8%8A%E4%BC%A0%E5%88%B0%E6%89%A9%E5%B1%95%E6%9D%BF%E7%9A%84%E6%96%87%E4%BB%B6/%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F/rootfs/bin/iptunnel
+END
+iprule
+K 25
+svn:wc:ra_dav:version-url
+V 220
+/svn/HYSBJKS_2/!svn/ver/1309/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E4%B8%8A%E4%BC%A0%E5%88%B0%E6%89%A9%E5%B1%95%E6%9D%BF%E7%9A%84%E6%96%87%E4%BB%B6/%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F/rootfs/bin/iprule
+END
+cp
+K 25
+svn:wc:ra_dav:version-url
+V 216
+/svn/HYSBJKS_2/!svn/ver/1309/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E4%B8%8A%E4%BC%A0%E5%88%B0%E6%89%A9%E5%B1%95%E6%9D%BF%E7%9A%84%E6%96%87%E4%BB%B6/%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F/rootfs/bin/cp
+END
+getopt
+K 25
+svn:wc:ra_dav:version-url
+V 220
+/svn/HYSBJKS_2/!svn/ver/1309/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E4%B8%8A%E4%BC%A0%E5%88%B0%E6%89%A9%E5%B1%95%E6%9D%BF%E7%9A%84%E6%96%87%E4%BB%B6/%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F/rootfs/bin/getopt
+END
+uname
+K 25
+svn:wc:ra_dav:version-url
+V 219
+/svn/HYSBJKS_2/!svn/ver/1309/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E4%B8%8A%E4%BC%A0%E5%88%B0%E6%89%A9%E5%B1%95%E6%9D%BF%E7%9A%84%E6%96%87%E4%BB%B6/%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F/rootfs/bin/uname
+END
+sh
+K 25
+svn:wc:ra_dav:version-url
+V 216
+/svn/HYSBJKS_2/!svn/ver/1309/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E4%B8%8A%E4%BC%A0%E5%88%B0%E6%89%A9%E5%B1%95%E6%9D%BF%E7%9A%84%E6%96%87%E4%BB%B6/%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F/rootfs/bin/sh
+END
+chown
+K 25
+svn:wc:ra_dav:version-url
+V 219
+/svn/HYSBJKS_2/!svn/ver/1309/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E4%B8%8A%E4%BC%A0%E5%88%B0%E6%89%A9%E5%B1%95%E6%9D%BF%E7%9A%84%E6%96%87%E4%BB%B6/%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F/rootfs/bin/chown
+END
+dumpkmap
+K 25
+svn:wc:ra_dav:version-url
+V 222
+/svn/HYSBJKS_2/!svn/ver/1309/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E4%B8%8A%E4%BC%A0%E5%88%B0%E6%89%A9%E5%B1%95%E6%9D%BF%E7%9A%84%E6%96%87%E4%BB%B6/%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F/rootfs/bin/dumpkmap
+END
+echo
+K 25
+svn:wc:ra_dav:version-url
+V 218
+/svn/HYSBJKS_2/!svn/ver/1309/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E4%B8%8A%E4%BC%A0%E5%88%B0%E6%89%A9%E5%B1%95%E6%9D%BF%E7%9A%84%E6%96%87%E4%BB%B6/%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F/rootfs/bin/echo
+END
+pipe_progress
+K 25
+svn:wc:ra_dav:version-url
+V 227
+/svn/HYSBJKS_2/!svn/ver/1309/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E4%B8%8A%E4%BC%A0%E5%88%B0%E6%89%A9%E5%B1%95%E6%9D%BF%E7%9A%84%E6%96%87%E4%BB%B6/%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F/rootfs/bin/pipe_progress
+END
+delgroup
+K 25
+svn:wc:ra_dav:version-url
+V 222
+/svn/HYSBJKS_2/!svn/ver/1309/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E4%B8%8A%E4%BC%A0%E5%88%B0%E6%89%A9%E5%B1%95%E6%9D%BF%E7%9A%84%E6%96%87%E4%BB%B6/%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F/rootfs/bin/delgroup
+END
+chattr
+K 25
+svn:wc:ra_dav:version-url
+V 220
+/svn/HYSBJKS_2/!svn/ver/1309/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E4%B8%8A%E4%BC%A0%E5%88%B0%E6%89%A9%E5%B1%95%E6%9D%BF%E7%9A%84%E6%96%87%E4%BB%B6/%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F/rootfs/bin/chattr
+END
+reformime
+K 25
+svn:wc:ra_dav:version-url
+V 223
+/svn/HYSBJKS_2/!svn/ver/1309/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E4%B8%8A%E4%BC%A0%E5%88%B0%E6%89%A9%E5%B1%95%E6%9D%BF%E7%9A%84%E6%96%87%E4%BB%B6/%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F/rootfs/bin/reformime
+END
+dd
+K 25
+svn:wc:ra_dav:version-url
+V 216
+/svn/HYSBJKS_2/!svn/ver/1309/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E4%B8%8A%E4%BC%A0%E5%88%B0%E6%89%A9%E5%B1%95%E6%9D%BF%E7%9A%84%E6%96%87%E4%BB%B6/%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F/rootfs/bin/dd
+END
+su
+K 25
+svn:wc:ra_dav:version-url
+V 216
+/svn/HYSBJKS_2/!svn/ver/1309/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E4%B8%8A%E4%BC%A0%E5%88%B0%E6%89%A9%E5%B1%95%E6%9D%BF%E7%9A%84%E6%96%87%E4%BB%B6/%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F/rootfs/bin/su
+END
+df
+K 25
+svn:wc:ra_dav:version-url
+V 216
+/svn/HYSBJKS_2/!svn/ver/1309/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E4%B8%8A%E4%BC%A0%E5%88%B0%E6%89%A9%E5%B1%95%E6%9D%BF%E7%9A%84%E6%96%87%E4%BB%B6/%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F/rootfs/bin/df
+END
+false
+K 25
+svn:wc:ra_dav:version-url
+V 219
+/svn/HYSBJKS_2/!svn/ver/1309/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E4%B8%8A%E4%BC%A0%E5%88%B0%E6%89%A9%E5%B1%95%E6%9D%BF%E7%9A%84%E6%96%87%E4%BB%B6/%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F/rootfs/bin/false
+END
+uncompress
+K 25
+svn:wc:ra_dav:version-url
+V 224
+/svn/HYSBJKS_2/!svn/ver/1309/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E4%B8%8A%E4%BC%A0%E5%88%B0%E6%89%A9%E5%B1%95%E6%9D%BF%E7%9A%84%E6%96%87%E4%BB%B6/%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F/rootfs/bin/uncompress
+END
+pidof
+K 25
+svn:wc:ra_dav:version-url
+V 219
+/svn/HYSBJKS_2/!svn/ver/1309/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E4%B8%8A%E4%BC%A0%E5%88%B0%E6%89%A9%E5%B1%95%E6%9D%BF%E7%9A%84%E6%96%87%E4%BB%B6/%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F/rootfs/bin/pidof
+END
+zcat
+K 25
+svn:wc:ra_dav:version-url
+V 218
+/svn/HYSBJKS_2/!svn/ver/1309/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E4%B8%8A%E4%BC%A0%E5%88%B0%E6%89%A9%E5%B1%95%E6%9D%BF%E7%9A%84%E6%96%87%E4%BB%B6/%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F/rootfs/bin/zcat
+END
+mount
+K 25
+svn:wc:ra_dav:version-url
+V 219
+/svn/HYSBJKS_2/!svn/ver/1309/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E4%B8%8A%E4%BC%A0%E5%88%B0%E6%89%A9%E5%B1%95%E6%9D%BF%E7%9A%84%E6%96%87%E4%BB%B6/%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F/rootfs/bin/mount
+END
+egrep
+K 25
+svn:wc:ra_dav:version-url
+V 219
+/svn/HYSBJKS_2/!svn/ver/1309/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E4%B8%8A%E4%BC%A0%E5%88%B0%E6%89%A9%E5%B1%95%E6%9D%BF%E7%9A%84%E6%96%87%E4%BB%B6/%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F/rootfs/bin/egrep
+END
+deluser
+K 25
+svn:wc:ra_dav:version-url
+V 221
+/svn/HYSBJKS_2/!svn/ver/1309/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E4%B8%8A%E4%BC%A0%E5%88%B0%E6%89%A9%E5%B1%95%E6%9D%BF%E7%9A%84%E6%96%87%E4%BB%B6/%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F/rootfs/bin/deluser
+END
+fgrep
+K 25
+svn:wc:ra_dav:version-url
+V 219
+/svn/HYSBJKS_2/!svn/ver/1309/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E4%B8%8A%E4%BC%A0%E5%88%B0%E6%89%A9%E5%B1%95%E6%9D%BF%E7%9A%84%E6%96%87%E4%BB%B6/%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F/rootfs/bin/fgrep
+END
+addgroup
+K 25
+svn:wc:ra_dav:version-url
+V 222
+/svn/HYSBJKS_2/!svn/ver/1309/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E4%B8%8A%E4%BC%A0%E5%88%B0%E6%89%A9%E5%B1%95%E6%9D%BF%E7%9A%84%E6%96%87%E4%BB%B6/%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F/rootfs/bin/addgroup
+END
+mkdir
+K 25
+svn:wc:ra_dav:version-url
+V 219
+/svn/HYSBJKS_2/!svn/ver/1309/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E4%B8%8A%E4%BC%A0%E5%88%B0%E6%89%A9%E5%B1%95%E6%9D%BF%E7%9A%84%E6%96%87%E4%BB%B6/%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F/rootfs/bin/mkdir
+END
+watch
+K 25
+svn:wc:ra_dav:version-url
+V 219
+/svn/HYSBJKS_2/!svn/ver/1309/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E4%B8%8A%E4%BC%A0%E5%88%B0%E6%89%A9%E5%B1%95%E6%9D%BF%E7%9A%84%E6%96%87%E4%BB%B6/%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F/rootfs/bin/watch
+END
+hush
+K 25
+svn:wc:ra_dav:version-url
+V 218
+/svn/HYSBJKS_2/!svn/ver/1309/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E4%B8%8A%E4%BC%A0%E5%88%B0%E6%89%A9%E5%B1%95%E6%9D%BF%E7%9A%84%E6%96%87%E4%BB%B6/%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F/rootfs/bin/hush
+END
+ln
+K 25
+svn:wc:ra_dav:version-url
+V 216
+/svn/HYSBJKS_2/!svn/ver/1309/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E4%B8%8A%E4%BC%A0%E5%88%B0%E6%89%A9%E5%B1%95%E6%9D%BF%E7%9A%84%E6%96%87%E4%BB%B6/%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F/rootfs/bin/ln
+END
+linux64
+K 25
+svn:wc:ra_dav:version-url
+V 221
+/svn/HYSBJKS_2/!svn/ver/1309/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E4%B8%8A%E4%BC%A0%E5%88%B0%E6%89%A9%E5%B1%95%E6%9D%BF%E7%9A%84%E6%96%87%E4%BB%B6/%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F/rootfs/bin/linux64
+END
+ash
+K 25
+svn:wc:ra_dav:version-url
+V 217
+/svn/HYSBJKS_2/!svn/ver/1309/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E4%B8%8A%E4%BC%A0%E5%88%B0%E6%89%A9%E5%B1%95%E6%9D%BF%E7%9A%84%E6%96%87%E4%BB%B6/%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F/rootfs/bin/ash
+END
+gunzip
+K 25
+svn:wc:ra_dav:version-url
+V 220
+/svn/HYSBJKS_2/!svn/ver/1309/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E4%B8%8A%E4%BC%A0%E5%88%B0%E6%89%A9%E5%B1%95%E6%9D%BF%E7%9A%84%E6%96%87%E4%BB%B6/%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F/rootfs/bin/gunzip
+END
+sync
+K 25
+svn:wc:ra_dav:version-url
+V 218
+/svn/HYSBJKS_2/!svn/ver/1309/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E4%B8%8A%E4%BC%A0%E5%88%B0%E6%89%A9%E5%B1%95%E6%9D%BF%E7%9A%84%E6%96%87%E4%BB%B6/%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F/rootfs/bin/sync
+END
+date
+K 25
+svn:wc:ra_dav:version-url
+V 218
+/svn/HYSBJKS_2/!svn/ver/1309/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E4%B8%8A%E4%BC%A0%E5%88%B0%E6%89%A9%E5%B1%95%E6%9D%BF%E7%9A%84%E6%96%87%E4%BB%B6/%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F/rootfs/bin/date
+END
+ls
+K 25
+svn:wc:ra_dav:version-url
+V 216
+/svn/HYSBJKS_2/!svn/ver/1309/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E4%B8%8A%E4%BC%A0%E5%88%B0%E6%89%A9%E5%B1%95%E6%9D%BF%E7%9A%84%E6%96%87%E4%BB%B6/%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F/rootfs/bin/ls
+END
+true
+K 25
+svn:wc:ra_dav:version-url
+V 218
+/svn/HYSBJKS_2/!svn/ver/1309/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E4%B8%8A%E4%BC%A0%E5%88%B0%E6%89%A9%E5%B1%95%E6%9D%BF%E7%9A%84%E6%96%87%E4%BB%B6/%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F/rootfs/bin/true
+END
+netstat
+K 25
+svn:wc:ra_dav:version-url
+V 221
+/svn/HYSBJKS_2/!svn/ver/1309/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E4%B8%8A%E4%BC%A0%E5%88%B0%E6%89%A9%E5%B1%95%E6%9D%BF%E7%9A%84%E6%96%87%E4%BB%B6/%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F/rootfs/bin/netstat
+END
+ps
+K 25
+svn:wc:ra_dav:version-url
+V 216
+/svn/HYSBJKS_2/!svn/ver/1309/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E4%B8%8A%E4%BC%A0%E5%88%B0%E6%89%A9%E5%B1%95%E6%9D%BF%E7%9A%84%E6%96%87%E4%BB%B6/%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F/rootfs/bin/ps
+END
+touch
+K 25
+svn:wc:ra_dav:version-url
+V 219
+/svn/HYSBJKS_2/!svn/ver/1309/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E4%B8%8A%E4%BC%A0%E5%88%B0%E6%89%A9%E5%B1%95%E6%9D%BF%E7%9A%84%E6%96%87%E4%BB%B6/%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F/rootfs/bin/touch
+END
+tar
+K 25
+svn:wc:ra_dav:version-url
+V 217
+/svn/HYSBJKS_2/!svn/ver/1309/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E4%B8%8A%E4%BC%A0%E5%88%B0%E6%89%A9%E5%B1%95%E6%9D%BF%E7%9A%84%E6%96%87%E4%BB%B6/%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F/rootfs/bin/tar
+END
+msh
+K 25
+svn:wc:ra_dav:version-url
+V 217
+/svn/HYSBJKS_2/!svn/ver/1309/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E4%B8%8A%E4%BC%A0%E5%88%B0%E6%89%A9%E5%B1%95%E6%9D%BF%E7%9A%84%E6%96%87%E4%BB%B6/%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F/rootfs/bin/msh
+END
+adduser
+K 25
+svn:wc:ra_dav:version-url
+V 221
+/svn/HYSBJKS_2/!svn/ver/1309/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E4%B8%8A%E4%BC%A0%E5%88%B0%E6%89%A9%E5%B1%95%E6%9D%BF%E7%9A%84%E6%96%87%E4%BB%B6/%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F/rootfs/bin/adduser
+END
+umount
+K 25
+svn:wc:ra_dav:version-url
+V 220
+/svn/HYSBJKS_2/!svn/ver/1309/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E4%B8%8A%E4%BC%A0%E5%88%B0%E6%89%A9%E5%B1%95%E6%9D%BF%E7%9A%84%E6%96%87%E4%BB%B6/%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F/rootfs/bin/umount
+END
+ed
+K 25
+svn:wc:ra_dav:version-url
+V 216
+/svn/HYSBJKS_2/!svn/ver/1309/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E4%B8%8A%E4%BC%A0%E5%88%B0%E6%89%A9%E5%B1%95%E6%9D%BF%E7%9A%84%E6%96%87%E4%BB%B6/%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F/rootfs/bin/ed
+END
+cpio
+K 25
+svn:wc:ra_dav:version-url
+V 218
+/svn/HYSBJKS_2/!svn/ver/1309/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E4%B8%8A%E4%BC%A0%E5%88%B0%E6%89%A9%E5%B1%95%E6%9D%BF%E7%9A%84%E6%96%87%E4%BB%B6/%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F/rootfs/bin/cpio
+END
+ipcalc
+K 25
+svn:wc:ra_dav:version-url
+V 220
+/svn/HYSBJKS_2/!svn/ver/1309/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E4%B8%8A%E4%BC%A0%E5%88%B0%E6%89%A9%E5%B1%95%E6%9D%BF%E7%9A%84%E6%96%87%E4%BB%B6/%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F/rootfs/bin/ipcalc
+END
+busybox
+K 25
+svn:wc:ra_dav:version-url
+V 221
+/svn/HYSBJKS_2/!svn/ver/1309/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E4%B8%8A%E4%BC%A0%E5%88%B0%E6%89%A9%E5%B1%95%E6%9D%BF%E7%9A%84%E6%96%87%E4%BB%B6/%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F/rootfs/bin/busybox
+END
+grep
+K 25
+svn:wc:ra_dav:version-url
+V 218
+/svn/HYSBJKS_2/!svn/ver/1309/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E4%B8%8A%E4%BC%A0%E5%88%B0%E6%89%A9%E5%B1%95%E6%9D%BF%E7%9A%84%E6%96%87%E4%BB%B6/%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F/rootfs/bin/grep
+END
+ipaddr
+K 25
+svn:wc:ra_dav:version-url
+V 220
+/svn/HYSBJKS_2/!svn/ver/1309/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E4%B8%8A%E4%BC%A0%E5%88%B0%E6%89%A9%E5%B1%95%E6%9D%BF%E7%9A%84%E6%96%87%E4%BB%B6/%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F/rootfs/bin/ipaddr
+END
+stty
+K 25
+svn:wc:ra_dav:version-url
+V 218
+/svn/HYSBJKS_2/!svn/ver/1309/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E4%B8%8A%E4%BC%A0%E5%88%B0%E6%89%A9%E5%B1%95%E6%9D%BF%E7%9A%84%E6%96%87%E4%BB%B6/%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F/rootfs/bin/stty
+END
+linux32
+K 25
+svn:wc:ra_dav:version-url
+V 221
+/svn/HYSBJKS_2/!svn/ver/1309/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E4%B8%8A%E4%BC%A0%E5%88%B0%E6%89%A9%E5%B1%95%E6%9D%BF%E7%9A%84%E6%96%87%E4%BB%B6/%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F/rootfs/bin/linux32
+END
+ip
+K 25
+svn:wc:ra_dav:version-url
+V 216
+/svn/HYSBJKS_2/!svn/ver/1309/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E4%B8%8A%E4%BC%A0%E5%88%B0%E6%89%A9%E5%B1%95%E6%9D%BF%E7%9A%84%E6%96%87%E4%BB%B6/%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F/rootfs/bin/ip
+END
+sleep
+K 25
+svn:wc:ra_dav:version-url
+V 219
+/svn/HYSBJKS_2/!svn/ver/1309/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E4%B8%8A%E4%BC%A0%E5%88%B0%E6%89%A9%E5%B1%95%E6%9D%BF%E7%9A%84%E6%96%87%E4%BB%B6/%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F/rootfs/bin/sleep
+END
+lsattr
+K 25
+svn:wc:ra_dav:version-url
+V 220
+/svn/HYSBJKS_2/!svn/ver/1309/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E4%B8%8A%E4%BC%A0%E5%88%B0%E6%89%A9%E5%B1%95%E6%9D%BF%E7%9A%84%E6%96%87%E4%BB%B6/%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F/rootfs/bin/lsattr
+END
+gzip
+K 25
+svn:wc:ra_dav:version-url
+V 218
+/svn/HYSBJKS_2/!svn/ver/1309/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E4%B8%8A%E4%BC%A0%E5%88%B0%E6%89%A9%E5%B1%95%E6%9D%BF%E7%9A%84%E6%96%87%E4%BB%B6/%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F/rootfs/bin/gzip
+END
+stat
+K 25
+svn:wc:ra_dav:version-url
+V 218
+/svn/HYSBJKS_2/!svn/ver/1309/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E4%B8%8A%E4%BC%A0%E5%88%B0%E6%89%A9%E5%B1%95%E6%9D%BF%E7%9A%84%E6%96%87%E4%BB%B6/%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F/rootfs/bin/stat
+END
+mountpoint
+K 25
+svn:wc:ra_dav:version-url
+V 224
+/svn/HYSBJKS_2/!svn/ver/1309/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E4%B8%8A%E4%BC%A0%E5%88%B0%E6%89%A9%E5%B1%95%E6%9D%BF%E7%9A%84%E6%96%87%E4%BB%B6/%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F/rootfs/bin/mountpoint
+END
+nice
+K 25
+svn:wc:ra_dav:version-url
+V 218
+/svn/HYSBJKS_2/!svn/ver/1309/software/%E7%BD%91%E5%8F%A3%E8%BD%AC%E4%B8%B2%E5%8F%A3/%E4%B8%8A%E4%BC%A0%E5%88%B0%E6%89%A9%E5%B1%95%E6%9D%BF%E7%9A%84%E6%96%87%E4%BB%B6/%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F/rootfs/bin/nice
+END

@@ -1,0 +1,40 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+<title>登陆</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<link href="style.css" rel="stylesheet" type="text/css" />
+	<script type="text/javascript" src="./jquery.js"></script>
+	<script type="text/javascript" src="./jquery.form.js"></script>
+<script type="text/javascript">
+	$(document).ready(function(){
+		var options = {
+			url: './cgi-bin/login.cgi',//CGI����·��
+			type: 'get',
+			success: function(data) {
+				var types = eval("("+data+")");
+				if(types.result != "SUCCESS") {
+					$("#wrong").html("用户名或密码错误");
+					$("#wrong").css({"color":"red", "position":"relative", "left":"-150px", "top":"180px", "size":"5"});
+				} else {
+					window.location.href=types.url.toString();
+				}
+		}};
+		$("#loginForm").ajaxForm(options);
+	});
+</script>
+</head>
+<body id="login-page">
+	<div id="title_loginPage"> </div> <!--名称-->
+	<form id="loginForm"><!--表单-->
+		<h3>管理员登陆<span>UserLogin</span><span id="wrong"></span></h3><!--表单标题-->
+		<label id="userName">  <span>用户名</span>  <input name="userName_loginpage" type="text" /></label><!--用户名-->
+		<label id="passWord_loginpage">  <span>密码</span> <input name="passWord_loginpage" type="password" /></label><!--密码-->
+		<ul>
+			<li><input id="remePwd" type="checkbox" value="记住密码" />记住密码</li>
+			<li><a href="#" onclick=alert("如果您忘记了密码，请长按设备上的复位按钮重置为初始密码！")>忘记密码</a></li>
+			<li><input id="login_loginpage" name="login_loginpage" type="submit" value="" /></li>
+		</ul>
+	</form>
+</body>
+</html>

@@ -1,0 +1,27 @@
+1, boa 
+	boa主服务程序、mine.type文件、boa.conf
+2，www
+	网页文件、CGI程序
+3，ntos_server
+	网口转串口服务程序、config.ini
+4, 复位键程序
+	按键驱动、按键响应程序
+5，fish.sh 
+	执行脚本，系统启动完成后，用来启动所有需要执行的程序
+6, rcS
+	系统/etc/init.d目录下的系统初始化脚本
+7，ifconfig-eth.sh
+	网卡初始化脚本，包括修改ip、子网掩码、网关、mac地址等，脚本，解析/etc/ntos/config.ini文件
+	，该文件又ntos_server根据数据库配置文件生成。
+8，Jikong_uart_convert_reset.ko
+	复位键驱动
+9，test_uart_convert_board
+	复位键程序，用来初始化系统，并重新启动。
+10，boa.conf
+	boa服务器配置文件
+11，rz
+	调试时使用的一个文件传输工具
+12，mime.types
+	boa服务器使用的一个文件，该文件拷贝子Linux发行版/etc/目录下，用来识别boa支持的文件或数据	类型
+13，sqlite3
+	sqlite数据库可执行程序，可以直接查看数据库配置信息。

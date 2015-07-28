@@ -1,0 +1,2 @@
+mkyaffs2image		创建yaffs2文件系统
+unyaffs			解压yaffs2文件系统

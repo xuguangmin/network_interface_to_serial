@@ -1,0 +1,40 @@
+#!/bin/sh
+
+PATH=/sbin:/bin:/usr/sbin:/usr/bin
+runlevel=S
+prevlevel=N
+umask 022
+export PATH runlevel prevlevel
+
+#
+#	Trap CTRL-C &c only in this shell so we can interrupt subprocess.
+#
+
+mount -a
+mkdir /dev/pts
+mount -t devpts devpts /dev/pts
+echo /sbin/mdev > /proc/sys/kernel/hotplug
+mdev -s
+mkdir -p /var/lock
+
+/bin/hostname -F /etc/sysconfig/HOSTNAME
+
+#add for UT6410                                                          
+if [ -e /dev/mmcblk0p1 ];then                                            
+mount /dev/mmcblk0p1 /mnt/sd                                             
+fi                                                                       
+                                                                         
+mount /dev/mtdblock3 /mnt/jikong                                         
+                                                                         
+if [ -e /etc/init.d/ifconfig-eth.sh ];then                               
+/bin/sh /etc/init.d/ifconfig-eth.sh
+echo "set IP for jikong"                                      
+fi                                        
+                                          
+if [ -e /etc/init.d/syslogd.sh ];then     
+/bin/sh /etc/init.d/syslogd.sh
+echo "start syslogd"          
+fi
+
+
+/server/fish.sh
